@@ -1,0 +1,21 @@
+# Setup
+title:        Igor Avila Pereira
+tagline:      Página Pessoal
+baseurl:      "/home/iapereira/IgorAvilaPereira.github.io/_site"
+paginate:     5
+locale:       "pt-br"
+
+# About/contact
+author:
+  name:       Igor Avila Pereira
+  url:        https://igoravilapereira.github.io/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+
+plugins: [jekyll-paginate]

@@ -1,0 +1,18 @@
+---
+layout: default
+title:  "Contato e Redes Sociais"
+date:   1987-01-01 17:50:00
+categories: main
+---
+
+## Contato e Redes Sociais
+
+* igor.pereira@riogrande.ifrs.edu.br
+* [CV Lattes](https://lattes.cnpq.br/7701563839009909)
+* [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=NwAURZMAAAAJ)
+* [Youtube](https://www.youtube.com/user/profigorpereira)
+* [Github](https://github.com/IgorAvilaPereira/)
+* [IFRS - Rio Grande, RS, Brasil](https://ifrs.edu.br/riogrande/)
+
+
+<a href="./../../../../index.html">voltar</a>

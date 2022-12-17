@@ -1,0 +1,45 @@
+---
+layout: default
+title:  "Ensino e Pesquisa"
+date:   2022-02-16 16:18:00
+categories: main
+---
+
+## Ensino
+
+### Graduação
+
+* [Projeto e Modelagem de Banco de Dados](http://github.com/IgorAvilaPereira/pmbd2022_2sem/wiki)
+* [Implementação e Operação de Bancos de Dados](http://github.com/IgorAvilaPereira/iobd2022_2sem/wiki)
+* [Tópicos em Bancos de Dados](http://github.com/IgorAvilaPereira/tbd2022_2sem/wiki)
+* [Princípios e Padrões de Projeto](http://github.com/IgorAvilaPereira/ppp2022_2sem/wiki)
+* Arquitetura e Projetos de Sistemas
+* Banco de Dados
+* Ferramentas de Desenvolvimento de Software I
+* Ferramentas de Desenvolvimento de Software II
+* Desenvolvimento WEB II
+* Sistemas Operacionais
+* Fundamentos da Computação
+* Supervisão de Estágio
+* Orientação de Trabalho de Conclusão de Curso
+  * Jair Soares 
+  * Leandro Marques
+  * Pierre Calado
+  * Matheus Mello
+  * Rafaela Pardo
+  * Maximiliano Neto
+  * Raquel Camargo Nunes
+
+### Técnico
+
+* Desenvolvimento de Sistemas 2
+* Engenharia de Software
+* Banco de Dados
+
+## Pesquisa
+
+* [Grupo de Pesquisa em Gerenciamento de Informações](http://dgp.cnpq.br/dgp/espelhogrupo/7453539007424818)
+* [Engenharia de Sistemas Ciberfísicos](http://dgp.cnpq.br/dgp/espelhogrupo/4772938023701230)
+* [Tecnologias Assistivas](http://dgp.cnpq.br/dgp/espelhogrupo/9520973259823527)
+
+<a href="./../../../../index.html">voltar</a>
